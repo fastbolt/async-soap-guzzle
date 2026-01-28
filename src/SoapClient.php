@@ -1,8 +1,8 @@
 <?php
 
-namespace Meng\AsyncSoap\Guzzle;
+namespace Fastbolt\AsyncSoap\Guzzle;
 
-use Meng\AsyncSoap\SoapClientInterface;
+use Fastbolt\AsyncSoap\SoapClientInterface;
 use Meng\Soap\HttpBinding\HttpBinding;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\RequestException;

@@ -1,10 +1,10 @@
 <?php
 
-namespace Meng\AsyncSoap\Guzzle;
+namespace Fastbolt\AsyncSoap\Guzzle;
 
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Promise\FulfilledPromise;
-use Meng\AsyncSoap\SoapClientInterface;
+use Fastbolt\AsyncSoap\SoapClientInterface;
 use Meng\Soap\HttpBinding\HttpBinding;
 use Meng\Soap\HttpBinding\RequestBuilder;
 use Meng\Soap\Interpreter;
